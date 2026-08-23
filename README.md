@@ -22,3 +22,6 @@ Right now that means going deeper on cloud (AWS), Infrastructure-as-Code, and Py
 - **Office-IT-Infrastructure** —> bare-metal Windows Server 2022 / AD / RDS for a 15-engineer startup
 - **astro-planner-pipeline** —> voice notes → Microsoft Planner, a pure-Python M365 pipeline
 - **personal-dashboard** —> self-hosted Python/Streamlit dashboard
+
+Always looking for my projects and ideas to test and mess with . 
+
