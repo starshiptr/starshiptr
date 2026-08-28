@@ -15,7 +15,9 @@ Right now that means going deeper on cloud (AWS), Infrastructure-as-Code, and Py
 ## My Socials 
 
 Github : https://github.com/starshiptr
+
 linkdin: https://www.linkedin.com/in/isaac-louis-ba966a379/
+
 Gmail: isaaclouis06@gmail.com
 
 Always looking for my projects and ideas to test and mess with . 
