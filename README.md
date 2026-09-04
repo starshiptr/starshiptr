@@ -1,9 +1,9 @@
-# Isaac Louis — IT Specialist → DevOps / Cloud Infrastructure
+# Isaac Louis -> IT Specialist → DevOps / Cloud Infrastructure
 
 I build and run the infrastructure other people depend on.
 
 IT Specialist at **Astrophel Aerospace** (aerospace startup, 15+ engineers) · B.Tech student, Chennai 
-I learn by building real systems end-to-end and documenting them. Right now I'm going deeper on **AWS**, **Infrastructure-as-Code**, and **Python automation** — turning hand-built infrastructure into repeatable, coded systems.
+I learn by building real systems end-to-end and documenting them. Right now I'm going deeper on **AWS**, **Infrastructure-as-Code**, and **Python automation** turning hand-built infrastructure into repeatable, coded systems.
 
 ### Tech
 
@@ -29,9 +29,9 @@ I learn by building real systems end-to-end and documenting them. Right now I'm 
 
 | Project | What it is | Stack |
 |---------|-----------|-------|
-| [school-network-deployment](https://github.com/starshiptr/school-network-deployment) | Enterprise school network designed & handed over solo — segmented, filtered, monitored | Proxmox · pfSense · VLANs · Graylog |
+| [school-network-deployment](https://github.com/starshiptr/school-network-deployment) | Production school network designed & handed  over solo segmented, filtered, monitored | Proxmox · pfSense · VLANs · Graylog |
 | [Office-IT-Infrastructure](https://github.com/starshiptr/Office-IT-Infrastructure) | Windows Server AD/RDS environment + zero-trust remote access for an aerospace startup | AD · RDS · Cloudflare ZT |
-| [personal-dashboard](https://github.com/starshiptr/personal-dashboard) | Self-hosted personal-ops dashboard (finance / fitness / tasks), live on a Hyper-V VM | Python · Streamlit · SQLite |
+| [personal-dashboard](https://github.com/starshiptr/personal-dashboard) | Self hosted personal ops dashboard (finance / fitness / tasks), live on a Hyper-V VM | Python · Streamlit · SQLite |
 | [nasa-ntrs-mcp](https://github.com/starshiptr/nasa-ntrs-mcp) | MCP server exposing NASA's NTRS reports API as live tools for LLM agents | Python · MCP |
 
 ### Currently
