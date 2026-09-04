@@ -5,7 +5,7 @@ I build and run the infrastructure other people depend on.
 IT Specialist at **Astrophel Aerospace** (aerospace startup, 15+ engineers) · B.Tech student, Chennai 
 I learn by building real systems end-to-end and documenting them. Right now I'm going deeper on **AWS**, **Infrastructure-as-Code**, and **Python automation** — turning hand-built infrastructure into repeatable, coded systems.
 
-### 🛠️ Tech
+### Tech
 
 **Infra & Virtualization**
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
@@ -25,7 +25,7 @@ I learn by building real systems end-to-end and documenting them. Right now I'm 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 📌 Featured Projects
+### Featured Projects
 
 | Project | What it is | Stack |
 |---------|-----------|-------|
@@ -34,12 +34,13 @@ I learn by building real systems end-to-end and documenting them. Right now I'm 
 | [personal-dashboard](https://github.com/starshiptr/personal-dashboard) | Self-hosted personal-ops dashboard (finance / fitness / tasks), live on a Hyper-V VM | Python · Streamlit · SQLite |
 | [nasa-ntrs-mcp](https://github.com/starshiptr/nasa-ntrs-mcp) | MCP server exposing NASA's NTRS reports API as live tools for LLM agents | Python · MCP |
 
-### 🌱 Currently
+### Currently
 
 - Studying for **AWS Certified Cloud Practitioner (CLF-C02)** → then **Solutions Architect Associate (SAA-C03)**
 - Learning **Terraform** and sharpening **Python / DSA** daily
 
-### 📫 Connect
+### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-louis-ba966a379/)
+
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:isaaclouis06@gmail.com)
