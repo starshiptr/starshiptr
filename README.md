@@ -1,45 +1,31 @@
-# Isaac Louis -> IT Specialist → DevOps / Cloud Infrastructure
+# Isaac Louis
 
-I build and run the infrastructure other people depend on.
+**I build and run the infrastructure other people depend on.**
 
-IT Specialist at **Astrophel Aerospace** (aerospace startup, 15+ engineers) · B.Tech student, Chennai 
-I learn by building real systems end-to-end and documenting them. Right now I'm going deeper on **AWS**, **Infrastructure-as-Code**, and **Python automation** turning hand-built infrastructure into repeatable, coded systems.
+IT Specialist at Astrophel Aerospace, a 15 engineer aerospace startup, where I own the network, the servers and the identity stack end to end. B.Tech in Computational Biology at SRM Chennai. I also design and deliver networks as a paid independent consultant.
 
-### Tech
+I learn by building real systems and writing down why they are built that way. Each repo below is a case study, not a tutorial.
 
-**Infra & Virtualization**
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### Currently building
 
-**Cloud & IaC**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare%20Zero%20Trust-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
+Kubernetes, CI/CD with GitHub Actions, and Terraform, turning hand built infrastructure into repeatable coded systems. AWS Cloud Practitioner (CLF-C02) in progress.
 
-**Automation & Code**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### Featured Projects
+### Selected work
 
 | Project | What it is | Stack |
-|---------|-----------|-------|
-| [school-network-deployment](https://github.com/starshiptr/school-network-deployment) | Production school network designed & handed  over solo segmented, filtered, monitored | Proxmox · pfSense · VLANs · Graylog |
-| [Office-IT-Infrastructure](https://github.com/starshiptr/Office-IT-Infrastructure) | Windows Server AD/RDS environment + zero-trust remote access for an aerospace startup | AD · RDS · Cloudflare ZT |
-| [personal-dashboard](https://github.com/starshiptr/personal-dashboard) | Self hosted personal ops dashboard (finance / fitness / tasks), live on a Hyper-V VM | Python · Streamlit · SQLite |
-| [nasa-ntrs-mcp](https://github.com/starshiptr/nasa-ntrs-mcp) | MCP server exposing NASA's NTRS reports API as live tools for LLM agents | Python · MCP |
+|---|---|---|
+| [office-it-infrastructure](https://github.com/starshiptr/Office-IT-Infrastructure) | Production IT environment for an aerospace startup: bare metal servers, the office network, AD identity and multi user compute. Cut hardware spend ~40% | Windows Server 2022 · Active Directory · RDS · Cloudflare Zero Trust |
+| [school-network-deployment](https://github.com/starshiptr/school-network-deployment) | Solo design and delivery of a segmented, monitored school campus network. Paid engagement, handed over with a runbook | Proxmox VE · pfSense · VLANs · Graylog · Zabbix |
+| [personal-dashboard](https://github.com/starshiptr/personal-dashboard) | Self hosted spending, fitness and task tracker running as a systemd service, reachable only over Tailscale | Python · Streamlit · SQLite · Linux |
+| [astro-planner-pipeline](https://github.com/starshiptr/astro-planner-pipeline) | Voice notes to Microsoft Planner tasks with a human approval gate. A case study in retiring your own app | Python · Microsoft Graph API · systemd |
+| [nasa-ntrs-mcp](https://github.com/starshiptr/nasa-ntrs-mcp) | MCP server that lets an AI assistant search and read NASA technical reports in plain English | Python · MCP |
 
-### Currently
+### Stack
 
-- Studying for **AWS Certified Cloud Practitioner (CLF-C02)** → then **Solutions Architect Associate (SAA-C03)**
-- Learning **Terraform** and sharpening **Python / DSA** daily
+**Infrastructure** Proxmox VE · Hyper-V · Windows Server 2022 · Active Directory · Ubuntu Server
+**Networking** pfSense · VLANs (802.1Q) · TCP/IP · DNS/DHCP · Cloudflare Zero Trust · Tailscale
+**Cloud and code** AWS · Python · PowerShell · Bash · Docker · Git
 
-### Connect
+### Reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-louis-ba966a379/)           
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:isaaclouis06@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/isaac-louis) · isaaclouis06@gmail.com
