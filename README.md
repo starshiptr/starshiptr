@@ -2,7 +2,7 @@
 
 **I build and run the infrastructure other people depend on.**
 
-IT Specialist at Astrophel Aerospace, a 15 engineer aerospace startup, where I own the network, the servers and the identity stack end to end. B.Tech in Computational Biology at SRM Chennai. I also design and deliver networks as a paid independent consultant.
+IT Specialist at Astrophel Aerospace, a 15 engineer aerospace startup, where I own the network, the servers and the identity stack end to end. I also design and deliver networks as a paid independent consultant.
 
 I learn by building real systems and writing down why they are built that way. Each repo below is a case study, not a tutorial.
 
