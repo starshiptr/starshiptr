@@ -2,7 +2,7 @@
 
 **I build and run the infrastructure other people depend on.**
 
-IT Specialist at Astrophel Aerospace, a 15 engineer aerospace startup, where I own the network, the servers and the identity stack end to end. I also design and deliver networks as a paid independent consultant.
+IT Specialist at Astrophel Aerospace, a 15 engineer aerospace startup, where I own the network, the servers and the identity stack end to end. B.Tech in Computational Biology at SRM Chennai. I also design and deliver networks as a paid independent consultant.
 
 I learn by building real systems and writing down why they are built that way. Each repo below is a case study, not a tutorial.
 
@@ -22,9 +22,11 @@ Kubernetes, CI/CD with GitHub Actions, and Terraform, turning hand built infrast
 
 ### Stack
 
-**Infrastructure** Proxmox VE · Hyper-V · Windows Server 2022 · Active Directory · Ubuntu Server
-**Networking** pfSense · VLANs (802.1Q) · TCP/IP · DNS/DHCP · Cloudflare Zero Trust · Tailscale
-**Cloud and code** AWS · Python · PowerShell · Bash · Docker · Git
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white) ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare%20Zero%20Trust-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+Also: Hyper-V, Active Directory, VLANs and 802.1Q, Tailscale, Bash.
 
 ### Reach me
 
