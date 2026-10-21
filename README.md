@@ -2,7 +2,7 @@
 
 **I build and run the infrastructure other people depend on, and the AI automation on top of it, behind gates that verify its work.**
 
-Infrastructure Engineer at Astrophel Aerospace, a 15 engineer aerospace startup, where I own the network, the servers, the identity stack and the monitoring end to end. B.Tech. I also design and deliver networks as a paid independent consultant.
+Infrastructure Engineer at Astrophel Aerospace, a 15 engineer aerospace startup, where I own the network, the servers, the identity stack and the monitoring end to end. I also design and deliver networks as a paid independent consultant.
 
 ### Latest
 
