@@ -4,8 +4,6 @@
 
 Infrastructure Engineer at Astrophel Aerospace, a 15 engineer aerospace startup, where I own the network, the servers, the identity stack and the monitoring end to end. B.Tech. I also design and deliver networks as a paid independent consultant.
 
-I learn by building real systems and writing down why they are built that way. Each repo below is a case study, not a tutorial.
-
 ### Latest
 
 **[redteam-action](https://github.com/starshiptr/redteam-action)**: a GitHub Action where Claude attacks every pull request, but a bug only counts if a test proves it. Each proof runs before and after the PR in a sandbox with no network and no secrets. On a public eval set of [8 pull requests](https://github.com/starshiptr/redteam-eval/pulls), each one reintroducing a real bug: **8/8 caught, 0 false alarms, about $0.02 per PR.**
